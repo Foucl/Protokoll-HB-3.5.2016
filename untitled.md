@@ -11,14 +11,14 @@ Wettbewerbe stellen meist eine Mischung aus privater und staatlicher Förderung 
 Das Tübinger Netzwerk [Die Kinder-Uni](http://www.die-kinder-uni.de/html/vorlesungsverzeichnis.html) verknüpft europaweit über 70 Universitäten, die Kindervorlesungen anbieten.
 
 ## Waren
-- (Hör)bücher von Kinderunis ()http://www.die-kinder-uni.de/html/kinder-uni-bibliothek.html
-- Literatur (Listen hier und hier)http://www.hochbegabt.ch/literatur/
+- (Hör)bücher von [Kinderunis](http://www.die-kinder-uni.de/html/kinder-uni-bibliothek.html)
+- Literatur für Eltern: [Liste](http://www.hochbegabten-homepage.de/literatur.html) des Instituts für das begabte Kind sowie eines [Schweizer Vereins](http://www.hochbegabt.ch/literatur).
 
 ## Förderkurse
-http://www.hochbegabten-homepage.de/steckbrief.html
+Das [Institut für das begabte Kind](http://www.hochbegabten-homepage.de/steckbrief.html) in Bonn bietet neben Diagnostik auch eine Reihe von Förderkursen an.
  
 ## Private (Hoch-) Begabtenschulen
-Z.B. die [Oko Private Talent-Schule]() Hamburg
+Beispielhaft sei hier die seit 2011 bestehende Hamburg [Oko Private Talent-Schule](http://www.talent-schule.de) genannt. Hier wird nach dem Drehtürprinzip unterrichtet.
 
 ## PPP
 Oft greifen staatliche und private Förderung Hand in Hand ('**P**ublic **P**rivate **P**artnerships'). Vgl. dazu bspw. das 'Netzwerk Hochbegabtenförderung NRW'. Auch in Bayern ist eine private Stiftung (Karg-Stiftung) sowie ein privates Bildungsinstitut (eVOCATIOn) an der Gestaltung von Hochbegabtenklassen innerhalb einiger staatlicher Gymnasien beteiligt.
